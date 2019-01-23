@@ -9,6 +9,10 @@ If you have Go installed you can run this command.
 ```sh
 go get github.com/jegfish/goroyale
 ```
+## Obtaining token
+A token can be obtained using one of two methods
+1. Visit https://developer.clashroyale.com, create an account and generate a token
+2. Visit https://discord.me/royaleapi then go to the #developer-key channel and request a generated token.
 
 ## Example
 ```golang
